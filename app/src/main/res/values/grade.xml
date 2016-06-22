@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="major">
+        <item>학과를 선택하세요.</item>
+        <item>건축학부</item>
+        <item>경영학부</item>
+        <item>경제학부</item>
+        <item>공간정보공학과</item>
+        <item>교양교육부</item>
+        <item>교통공학과</item>
+        <item>국사학과</item>
+        <item>국어국문학과</item>
+        <item>국제관계학과</item>
+        <item>기계정보공학과</item>
+        <item>도시공학과</item>
+        <item>도시사회학과</item>
+        <item>도시행정학과</item>
+        <item>물리학과</item>
+        <item>법학부</item>
+        <item>사회복지학과</item>
+        <item>산업디자인학과</item>
+        <item>생명과학과</item>
+        <item>세무학과</item>
+        <item>수학과</item>
+        <item>스포츠과학과</item>
+        <item>신소재공학과</item>
+        <item>영어영문학과</item>
+        <item>융합전공학부</item>
+        <item>음악학과</item>
+        <item>자유전공학부</item>
+        <item>전자전기컴퓨터공학부</item>
+        <item>조경학과</item>
+        <item>중국어문화학과</item>
+        <item>철학과</item>
+        <item>컴퓨터과학부</item>
+        <item>토목공학과</item>
+        <item>통계학과</item>
+        <item>행정학과</item>
+        <item>화학공학과</item>
+        <item>환경공학부</item>
+        <item>환경원예학과</item>
+        <item>환경조각학과</item>
+
+    </string-array>
+</resources>
